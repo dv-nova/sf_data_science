@@ -5,4 +5,4 @@ DS homework
 
 * [project 0: guess the number](https://github.com/dv-nova/sf_data_science/tree/main/project_0)
 * [project 0 - homework edition: guess the number](https://github.com/dv-nova/sf_data_science/tree/main/project_0_HW)
-* [project 1 - homework edition: analysis and data processing for HH](https://github.com/dv-nova/sf_data_science/tree/main/project_1)
+
